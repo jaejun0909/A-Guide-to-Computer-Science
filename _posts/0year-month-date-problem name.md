@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Junwon Kim
+author: Name
 tags: [ProblemSolving , USACO-Bronze]
 ---
 
