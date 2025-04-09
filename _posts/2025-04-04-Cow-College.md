@@ -27,8 +27,6 @@ With this knowledge, we can now iterate through the list, trying all values of $
 
 **Time Complexity:** $\mathcal{O}(N \log N)$
 
-<LanguageSection>
-<CPPSection>
 
 ```cpp
 #include <bits/stdc++.h>
@@ -57,9 +55,6 @@ int main() {
 }
 ```
 
-</CPPSection>
-
-<PySection>
 
 ```py
 n = int(input())
@@ -78,7 +73,3 @@ for i in range(n):
 
 print(best_tuition, best_money)
 ```
-
-</PySection>
-
-</LanguageSection>
