@@ -47,5 +47,6 @@ manuscript. I also thank Simon Rees and Wayne Wheeler for excellent collaboratio
 when publishing this book with Springer.
 </p>
 
-$Junwon$ $Kim,$\
-$April$ $2025$
+
+**Junwon Kim,**\
+**April 2025**
