@@ -1,11 +1,21 @@
-## moonwalk - a fast and minimalistic blog theme with clean dark mode
+## A Guide to Computer Science
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
+<p>The purpose of this book is to give you a <strong>comprehensive introduction to modern competitive programming</strong>. It is assumed that you already know the basics of programming, but previous background in algorithm design or programming contests is not necessary. Since the book covers a wide range of topics of various difficulty, it suits <strong>both for beginners and more experienced readers</strong>.</p>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="24"/>
-<a href="https://abhinavs.github.io/moonwalk/">TRY THE DEMO</a>
-</h3>
+<p><strong>Programming contests already have a quite long history</strong>. The <strong>International Collegiate Programming Contest</strong> for university students was started during the 1970s, and the first <strong>International Olympiad in Informatics</strong> for secondary school students was organized in 1989. Both competitions are now <strong>established events with a large number of participants from all around the world</strong>.</p>
+
+<p><strong>Today, competitive programming is more popular than ever</strong>. The <strong>Internet has played a significant role in this progress</strong>. There is now an active online community of competitive programmers, and many contests are organized every week. At the same time, the <strong>difficulty of contests is increasing</strong>. Techniques that only the very best participants mastered some years ago are now standard tools known by a large number of people.</p>
+
+<p><strong>Competitive programming has its roots in the scientific study of algorithms</strong>. However, while a computer scientist writes a proof to show that their algorithm works, a competitive programmer implements their algorithm and submits it to a contest system. Then, the algorithm is tested using a set of test cases, and if it passes all of them, it is accepted. This is an <strong>essential element in competitive programming, because it provides a way to automatically get strong evidence that an algorithm works</strong>. In fact, <strong>competitive programming has proved to be an excellent way to learn algorithms, because it encourages to design algorithms that really work</strong>, instead of sketching ideas that may work or not.</p>
+
+<p><strong>Another benefit of competitive programming is that contest problems require thinking</strong>. In particular, there are no spoilers in problem statements. This is actually a severe problem in many algorithms courses. You are given a nice problem to solve, but then the last sentence says, for example: “Hint: modify Dijkstra’s algorithm to solve the problem.” After reading this, there is not much thinking needed, because you already know how to solve the problem. <strong>This never happens in competitive programming. Instead, you have a full set of tools available, and you have to figure out yourself which of them to use</strong>.</p>
+
+<p><strong>Solving competitive programming problems also improves one’s programming and debugging skills</strong>. Typically, a solution is awarded points only if it correctly solves all test cases, so a <strong>successful competitive programmer has to be able to implement programs that do not have bugs</strong>. This is a <strong>valuable skill in software engineering</strong>, and it is not a coincidence that <strong>IT companies are interested in people who have background in competitive programming</strong>.</p>
+
+<p><strong>It takes a long time to become a good competitive programmer, but it is also an opportunity to learn a lot</strong>. You can be sure that you will get a <strong>good general understanding of algorithms if you spend time reading the book, solving problems, and taking part in contests</strong>.</p>
+
+Junwon Kim
+April 2025
 
 ## Features
 * Light & dark mode with theme switcher
