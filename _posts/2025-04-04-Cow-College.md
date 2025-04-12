@@ -12,7 +12,7 @@ The main issue in this problem is figuring out how to efficiently calculate the 
 
 To do this, we can sort our list of cows before starting to process them.
 In our sorted list, notice that the amount of tuition FJ earns at index $i$ (starting from 0) is $c_i \cdot (N-i)$.
-가나다라
+
 For example, let's look at the sample input:
 ```
 4
