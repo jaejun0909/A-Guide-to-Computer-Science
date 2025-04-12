@@ -19,7 +19,7 @@ For example, let's look at the sample input:
 1 6 4 6
 ```
 
-If we sort the list so it becomes $[1, 4, 6, 6]$ and take $i$ to be $1$, FJ will earn $c_1 \cdot (N-1)=4 \cdot 3=12$ units of money.
+If we sort the list so it becomes [1, 4, 6, 6] and take $i$ to be $1$, FJ will earn $c_1 \cdot (N-1)=4 \cdot 3=12$ units of money.
 
 With this knowledge, we can now iterate through the list, trying all values of $i$ and taking the maximum tuition FJ earns.
 
