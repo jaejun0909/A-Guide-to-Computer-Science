@@ -9,59 +9,48 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Wanbang Online Judge
+    url: wboj.app
+    desc: wboj's aim is to offer you a convenient platform to solve, discuss or make algorithm problems.
+  - title: USACO
+    url: usaco.org
+    desc: The USACO supports computing education in the USA and worldwide by identifying, motivating, and training high-school computing students at all levels
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: ACSL wiki
+    url: https://www.categories.acsl.org/wiki/index.php?title=Main_Page
+    desc: The wiki describing the topics covered in the short programs section of the ACSL contests.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Rhythm Canvas
+    url: https://canvas.instructure.com/courses/8252833
+    desc: This is the course page for assignments and announcements.
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Junwon Kim
+    url: https://github.com/notj-code/
+    desc: Founder of Wanbang Computer Science Team. Leaded Rhythm (Computer Science Team) from 2024 to 2026
+    highlight: Founder, Team Leader
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Seungjoon Park
+    url: https://github.com/PSJ-11
+    desc: Team Leader of Rhythm (Computer Science Team) from 2024 to 2028
+    highlight: Team Leader
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Jay Jang
+    url: https://github.com/jaejun0909
+    desc: Content Author
+  - title: Hajoon Song
+    url: https://github.com/Hajun091024
+    desc: Content Author
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Wanbang Online Judge
+    url: https://wboj.app
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: WBcs_Guide
+    url: https://wcsguide.netlify.app/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/WanbangSchool
 
   - title: feed
     url: feed.xml
