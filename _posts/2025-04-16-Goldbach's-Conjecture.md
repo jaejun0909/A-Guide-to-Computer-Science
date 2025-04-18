@@ -37,7 +37,7 @@ The sieve of Eratosthenes is one of the most efficient ways to find all prime nu
 
 ## Implementation
 
-**Time Complexity:** $\mathcal{O}(N)$
+**Time Complexity:** O(N)
 
 ---
 ```python
