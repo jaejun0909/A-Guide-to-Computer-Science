@@ -24,29 +24,6 @@ you already know how to solve the problem. This never happens in competitive
 programming. 
 </p>
 
-<p>
-Instead, you have a full set of tools available, and you have to figure
-out yourself which of them to use.
-Solving competitive programming problems also improves one’s programming
-and debugging skills. Typically, a solution is awarded points only if it correctly
-solves all test cases, so a successful competitive programmer has to be able to
-implement programs that do not have bugs. This is a valuable skill in software
-engineering, and it is not a coincidence that IT companies are interested in people
-who have background in competitive programming.
-It takes a long time to become a good competitive programmer, but it is also an
-opportunity to learn a lot. You can be sure that you will get a good general
-understanding of algorithms if you spend time reading the book, solving problems,
-and taking part in contests.
-If you have any feedback, I would like to hear it! You can always send me a
-message to ahslaaks@cs.helsinki.fi.
-I am very grateful to a large number of people who have sent me feedback on
-draft versions of this book. This feedback has greatly improved the quality of the
-book. I especially thank Mikko Ervasti, Janne Junnila, Janne Kokkala, Tuukka
-Korhonen, Patric Östergård, and Roope Salmi for giving detailed feedback on the
-manuscript. I also thank Simon Rees and Wayne Wheeler for excellent collaboration
-when publishing this book with Springer.
-</p>
-
 
 **Junwon Kim,**\
 **April 2025**
