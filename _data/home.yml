@@ -2,10 +2,10 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: Solutions
     url: blog
 
-  - title: website
+  - title: Wanbang School 
     url: https://www.abhinav.co
 
 project_entries:
