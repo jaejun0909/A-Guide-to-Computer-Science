@@ -5,8 +5,8 @@ navbar_entries:
   - title: Solutions
     url: blog
 
-  - title: Wanbang School 
-    url: https://www.abhinav.co
+  - title: WB OJ
+    url: https://www.wboj.app
 
 project_entries:
   - title: Wanbang Online Judge
