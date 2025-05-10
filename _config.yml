@@ -1,8 +1,8 @@
-title: Guide to Computer Science
+title: Rhythm
 author: Junwon Kim
-url: https://wcsguide.netlify.app/k # root address of the site
+url: https://wcsguide.netlify.app/ # root address of the site
 description: > # description of the site (multiple lines allowed)
- The purpose of this website is to give you a comprehensive introduction to Computer Science. This means we not only cover programming or coding, but also cover overall concepts of computer sience and real life application.
+ Our team, Rhythm, focuses on the value beyond the computer programming. Our purpose of learning programming is to contribute to the world, not only for technological development but also for increase of life quality. Technology is powerful; it can influence the entire world. Our team believes that having the right purpose and value is more important than programming skills, for the technology itself is depended on the users. Our team values teamwork with our community, responsibility for our work, diligence, and honesty. Our team hope that programmers can pursue a better society and work. This is why we are learning and practicing programming.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon

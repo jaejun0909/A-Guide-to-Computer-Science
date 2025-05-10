@@ -2,11 +2,11 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: Solutions
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: WB OJ
+    url: https://www.wboj.app
 
 project_entries:
   - title: Wanbang Online Judge
